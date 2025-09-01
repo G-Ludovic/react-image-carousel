@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "biomejs.biome-vscode",
+  "biome.enable": true,
+  "biome.run": "onSave",
+  "prettier.enable": false,
+  "eslint.enable": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true
+}
