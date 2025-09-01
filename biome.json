@@ -23,21 +23,5 @@
 		"formatter": {
 			"quoteStyle": "double"
 		}
-	},
-	"overrides": [
-		{
-			"files": {},
-			"formatter": {
-				"indentStyle": "space",
-				"indentWidth": 2,
-				"lineWidth": 80
-			},
-			"linter": {
-				"rules": {
-					"recommended": true,
-					"correctness": "off"
-				}
-			}
-		}
-	]
+	}
 }

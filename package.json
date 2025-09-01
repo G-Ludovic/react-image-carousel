@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "prepare": "husky",
     "format": "biome format src --write",
     "check": "biome check src",
     "check:fix": "biome check --write src",
@@ -23,7 +22,6 @@
     "@types/react": "^19.1.10",
     "@types/react-dom": "^19.1.7",
     "@vitejs/plugin-react": "^5.0.0",
-    "husky": "^9.1.7",
     "vite": "^7.1.2"
   }
 }
