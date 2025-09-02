@@ -4,6 +4,10 @@ Objectif : Comment mettre en place un carousel via tutoriel -> [Code Complete](w
 
 <hr>
 
+### Démonstration après réalisation du code :
+
+https://github.com/G-Ludovic/react-image-carousel/issues/1#issue-3375521262
+
 # React + Vite
 
 Ce modèle fournit une configuration minimale pour utiliser React dans Vite avec HMR et certaines règles ESLint.
