@@ -6,7 +6,7 @@ Objectif : Comment mettre en place un carousel via tutoriel -> [Code Complete](w
 
 ### Démonstration après réalisation du code :
 
-https://github.com/G-Ludovic/react-image-carousel/issues/1#issue-3375521262
+[https://github.com/G-Ludovic/react-image-carousel/issues/1#issue-3375521262](https://github.com/user-attachments/assets/a7c53b89-2d8c-4ba7-b54b-8598fd2baf8e)
 
 # React + Vite
 
