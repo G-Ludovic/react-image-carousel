@@ -63,5 +63,4 @@ Dans le `package.json` :
 npm run check:fix
 ```
 
-pour s’assurer que tout est correct.
----
+Pour s’assurer que tout est correct.
