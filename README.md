@@ -25,24 +25,7 @@ Dans mon cas j'ai effectué une petite configuration avec Biome pour avoir un pe
 
 ## 1️⃣ VSCode : configuration automatique à la sauvegarde
 
-Crée ou mets à jour `.vscode/settings.json` :
-
-```json
-{
-  "editor.formatOnSave": true,
-  "editor.defaultFormatter": "biomejs.biome-vscode",
-  "biome.enable": true,
-  "biome.run": "onSave",
-  "prettier.enable": false,
-  "eslint.enable": false,
-  "editor.codeActionsOnSave": {
-    "source.fixAll": true},
-  "editor.tabSize": 2,
-  "editor.insertSpaces": true}
-```
-
-✅ Ce que ça fait :
-
+- Crée ou mets à jour `.vscode/settings.json`
 - Chaque sauvegarde formate le fichier courant avec Biome
 - Applique les règles de linting automatiquement
 - Ignore Prettier/ESLint pour éviter les conflits
@@ -81,12 +64,4 @@ npm run check:fix
 ```
 
 pour s’assurer que tout est correct.
-
----
-
-💡 Avec cette config :
-
-- Pas besoin de Husky ni de lint-staged pour ce petit projet.
-- Le code restera propre, lisible, et cohérent avec les règles recommandées.
-
 ---
