@@ -1,6 +1,8 @@
 # Petit projet d'étude sur le carrousel & configuration Biome
 
-Objectif : Comment mettre en place un carousel via tutoriel -> [Code Complete](www.youtube.com/@Code_Complete)
+### Objectif : Mettre en place un carousel simple avec React.
+
+Ressource utilisé pour atteindre cette objectif -> [Code Complete](www.youtube.com/@Code_Complete)
 
 <hr>
 
