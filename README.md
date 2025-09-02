@@ -2,7 +2,7 @@
 
 ### Objectif : Mettre en place un carousel simple avec React.
 
-- Ressource utilisé pour atteindre cette objectif -> [Code Complete](www.youtube.com/@Code_Complete),
+- Ressource utilisé pour atteindre cette objectif -> [Code Complete](https://youtu.be/QpsGo8kZiTo?si=B4hLxCPiL_LqxbSA),
 - Dépendance utilisé pour les icônes -> [react-icons](https://www.npmjs.com/package/react-icons),
 - Site qui me permet d'obtenir des images aléatoire statiques -> [Lorem Picsum](https://picsum.photos/).
 
